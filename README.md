@@ -8,14 +8,14 @@ This is my minimal Neovim configuration for a clean and efficient coding experie
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/neovim-config.git ~/.config/nvim
+    git clone https://github.com/Era37/nvim-setup.git ~/.config/nvim
     ```
 
 3. Launch Neovim, and the configuration will be automatically applied.
 
 ## Customization
 
-Feel free to customize the configuration in `init.vim` to suit your preferences.
+Feel free to customize the configuration in `init.lua` to suit your preferences.
 
 ## License
 
